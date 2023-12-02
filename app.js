@@ -2,7 +2,7 @@ const dotenv = require('dotenv').config();
 const express = require('express');
 //const socket = require('socket.io');
 const app = express();
-
+//aa
 //session işlemleri için gereken paket
 //const session = require('express-session');
 //render edilen sayfalarda mesaj göstermek için kullanılan
